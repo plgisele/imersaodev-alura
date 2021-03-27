@@ -7,3 +7,5 @@ Este projeto teve como intuito mostrar:
 
 [Projeto no CodePen](https://codepen.io/plgisele/pen/dyNbEXO?editors=0010 "CodePen")
 
+![Imagem projeto](img/moeda.png)
+
