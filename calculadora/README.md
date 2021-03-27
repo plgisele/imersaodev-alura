@@ -4,4 +4,4 @@ Este projeto teve como intuito mostrar:
 - Operações matemáticas básicas
 - if / else
 
-[Projeto no CodePen](https://codepen.io/plgisele/pen/zYNGOvM?editors=0010 "CodePen")
+[Projeto no CodePen](https://codepen.io/plgisele/pen/zYNGOvM "CodePen")
