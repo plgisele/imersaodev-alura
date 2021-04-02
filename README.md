@@ -10,3 +10,4 @@ Evento promovido pela Alura para iniciantes como forma de ensinar lógica da pro
 - [Projeto 05](https://github.com/plgisele/imersaodev-alura/tree/master/aluraflix2)
 - [Projeto 06](https://github.com/plgisele/imersaodev-alura/tree/master/tab-class)
 - [Projeto 07](https://github.com/plgisele/imersaodev-alura/tree/master/super-trunfo)
+- [Projeto 08](https://github.com/plgisele/imersaodev-alura/tree/master/certificard)
