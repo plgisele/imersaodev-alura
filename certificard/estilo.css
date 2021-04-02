@@ -1,0 +1,74 @@
+body {
+    background-color: #307984;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  section {
+    box-shadow: -1px 2px 10px 2px rgba(0,0,0,0.09);
+    -webkit-box-shadow: -1px 2px 10px 2px rgba(0,0,0,0.09);
+    -moz-box-shadow: -1px 2px 10px 2px rgba(0,0,0,0.09);
+    display: block;
+    margin: auto;
+    max-width: 500px;
+    margin-top: 100px;
+    background-color: white;
+    padding: 15px;
+    border-radius: 5px;
+  }
+  
+  section h1 {
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #307984;
+    text-align: center;
+  }
+  
+  header {
+    background-image: url('https://s3-us-west-2.amazonaws.com/flx-editorial-wordpress/wp-content/uploads/2019/12/03151407/700Ghibli.jpg');
+    background-size: cover;
+    height: 80px;
+    border-radius: 5px;
+  }
+  
+  div {
+    padding: 15px;
+    background-color: #dedede;
+    border-radius: 5px;
+  }
+  
+  a:link, a:visited {
+    text-decoration: none;
+    color: #505050;
+  }
+  
+  a:hover {
+    background-color: white;
+    color: #307984;
+    padding: 5px;
+    border-bottom: 1px solid #307984;
+  }
+  
+  ol {
+    list-style: none;
+  }
+  
+  li {
+    padding: 5px;
+  }
+  
+  div h2 {
+    font-size: 17px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #505050;
+  }
+  
+  img {
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    margin: auto;
+    display: block;
+    transform: translateY(-50%);
+    border: 8px solid white;
+  }
